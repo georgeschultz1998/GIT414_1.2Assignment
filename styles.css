@@ -285,10 +285,3 @@ footer{
 	font-family: sans-serif;
 	text-align: center;
 }
-
-label, input {
-  display: block;
-  width: calc(100% - 2em);
-  margin-bottom: 1em; /* Add this line */
-}
-
