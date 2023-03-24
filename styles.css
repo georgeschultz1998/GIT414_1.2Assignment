@@ -286,3 +286,6 @@ footer{
 	text-align: center;
 }
 
+label, input {
+  display: block;
+}
