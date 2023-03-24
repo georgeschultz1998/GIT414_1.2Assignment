@@ -288,4 +288,7 @@ footer{
 
 label, input {
   display: block;
+  width: calc(100% - 2em);
+  margin-bottom: 1em; /* Add this line */
 }
+
